@@ -8,6 +8,7 @@ Registration and login functionality for users.
 Dynamic display of questions and options.
 Score tracking and display at the end of the quiz.
 Ability to restart the quiz.
+
 How to Use:
 
 Clone the repository to your local machine.
@@ -16,6 +17,7 @@ Run the quiz.py file to start the quiz application.
 Register or login to participate in the quiz.
 Answer the multiple-choice questions displayed.
 View your score at the end of the quiz.
+
 Contributing:
 
 Contributions are welcome! If you have any suggestions, bug fixes, or enhancements, feel free to open an issue or submit a pull request.
